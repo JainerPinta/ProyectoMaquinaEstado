@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/ise/Desktop/Proyectos/MaquinaEstado/TB_MaquinaArcade_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="tb_maquinaarcade" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/tb_maquinaarcade/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_maquinaarcade/golper1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">golper1</obj_property>
+      <obj_property name="ObjectShortName">golper1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_maquinaarcade/golper2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">golper2</obj_property>
+      <obj_property name="ObjectShortName">golper2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_maquinaarcade/moneda" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">moneda</obj_property>
+      <obj_property name="ObjectShortName">moneda</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_maquinaarcade/ganadorr1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ganadorr1</obj_property>
+      <obj_property name="ObjectShortName">ganadorr1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_maquinaarcade/ganadorr2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ganadorr2</obj_property>
+      <obj_property name="ObjectShortName">ganadorr2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_maquinaarcade/disponible" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">disponible</obj_property>
+      <obj_property name="ObjectShortName">disponible</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_maquinaarcade/robotr1rounds" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">robotr1rounds[1:0]</obj_property>
+      <obj_property name="ObjectShortName">robotr1rounds[1:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_maquinaarcade/robotr2rounds" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">robotr2rounds[1:0]</obj_property>
+      <obj_property name="ObjectShortName">robotr2rounds[1:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_maquinaarcade/numround" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">numround[2:0]</obj_property>
+      <obj_property name="ObjectShortName">numround[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_maquinaarcade/totalgolpesr1" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">totalgolpesr1</obj_property>
+      <obj_property name="ObjectShortName">totalgolpesr1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_maquinaarcade/totalgolpesr2" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">totalgolpesr2</obj_property>
+      <obj_property name="ObjectShortName">totalgolpesr2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_maquinaarcade/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_maquinaarcade/uut/presente" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">presente</obj_property>
+      <obj_property name="ObjectShortName">presente</obj_property>
+   </wvobject>
+</wave_config>

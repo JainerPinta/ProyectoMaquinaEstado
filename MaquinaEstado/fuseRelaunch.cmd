@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Desktop/Proyectos/MaquinaEstado/TB_MaquinaArcade_isim_beh.exe" -prj "/home/ise/Desktop/Proyectos/MaquinaEstado/TB_MaquinaArcade_beh.prj" "work.TB_MaquinaArcade" 
